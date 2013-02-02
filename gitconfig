@@ -1,9 +1,12 @@
 [user]
-	name = Weverton do Couto Timoteo
-	email = me@wolcan.us
+	name = Erick Mazer Yamashita
+	email = me@erickmy.com
 
 [github]
-  username = wolcanus
+  username = erickmy
+
+[bitbucket]
+  username = erickmy
 
 [credential]
 	helper = osxkeychain
